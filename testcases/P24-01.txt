@@ -1,0 +1,3 @@
+Launch https://the-internet.herokuapp.com/
+Click PracticePage.dragAndDropLink
+DragAndDrop PracticePage.DragSource to PracticePage.dropDest

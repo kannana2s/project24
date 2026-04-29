@@ -1,0 +1,5 @@
+Launch https://the-internet.herokuapp.com/
+Click FormsPage.FileUploadLink
+Upload F2\Upload-File-Sample.png to PracticePage.uploadbtn
+Click PracticePage.uploadSubmit
+Close Browser
