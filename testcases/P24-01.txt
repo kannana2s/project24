@@ -2,3 +2,4 @@ Launch https://the-internet.herokuapp.com/
 Wait 5 seconds
 Click PracticePage.dragAndDropLink
 DragAndDrop PracticePage.DragSource to PracticePage.dropDest
+Close Browser
