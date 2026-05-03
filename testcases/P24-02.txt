@@ -3,4 +3,3 @@ Wait 3 seconds
 Click FormsPage.FileUploadLink
 Upload F2\Upload-File-Sample.png to PracticePage.uploadbtn
 Click PracticePage.uploadSubmit
-Close Browser
